@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @aidev13
-- 👀 I’m interested in creating a new career! I learn something new everyday!
-- 🌱 I’m currently learning advanced JavaScript!
-- 👌 In 2024, I will be learning PHP and advanced SQL.
-- 💞️ I’m looking to collaborate on anything!
+- 👋 Hi, I’m David Liebherr!
+- 🌱 I’m currently learning advanced JavaScript with Traversy Media!
+- 👌 In 2024, I will be learning PHP, advanced SQL and C#.
 - 📫 How to reach me: ambition_aidev@gmail.com
 
 <!---

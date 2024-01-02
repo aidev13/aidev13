@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Liebherr!
 - 🌱 I’m currently learning advanced JavaScript with Traversy Media!
-- 👌 In 2024, I will be learning PHP, advanced SQL and C#.
+- 2024 goals: first quarter - finish strong with advanced JS, second quarter and third - PHP and SQL, forth quarter -C# 
 - 📫 How to reach me: ambition_aidev@gmail.com
 
   

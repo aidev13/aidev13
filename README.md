@@ -1,10 +1,10 @@
 - 👋 Hi, I’m David Liebherr!
-- 🌱 I’m currently learning advanced JavaScript with Traversy Media!
-- 2024 goals: first quarter - finish strong with advanced JS, second quarter and third - PHP and SQL, forth quarter -C# 
+- I love hunting and fishing, music and vodka.
 - 📫 How to reach me: ambition.aidev@gmail.com
 
   
-I am an EdX Grad with UW-Wisconsin and a proud A student who asked a lot of questions, loved to collabrate and learn. I will continure learning and researching. Keep an ```<eye> I </eye>``` on me!
+I enjoy coding in PHP and JavaScript. Recently, I have been dabbing in C# and plan to get into Java as well.
+
 
 <!---
 aidev13/aidev13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

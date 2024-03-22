@@ -1,10 +1,9 @@
-- 👋 Hi, I’m David Liebherr!
+## David Liebherr
+I enjoy coding in PHP, Python and SQL.
+
 - I love hunting and fishing, music and vodka.
 - Jesus is Lord! Seek him and you will find peace in your soul!
-- 📫 How to reach me: ambition.aidev@gmail.com
-
-  
-I enjoy coding in PHP and JavaScript. I have also been dabbing in C#.
+- 📫 How to reach me: liebherrdavid@yahoo.com
 
 I am a self-learning dev. I did graduate EdX bootcamp in full stack web development.
 <!---

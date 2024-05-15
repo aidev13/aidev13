@@ -1,5 +1,5 @@
 ## David Liebherr
-I enjoy coding in PHP, Python and SQL.
+I enjoy coding in PHP, Python, HTML, CSS, JS and SQL.
 
 - I love hunting and fishing, music and vodka.
 - Jesus is Lord! Seek him and you will find peace in your soul!
